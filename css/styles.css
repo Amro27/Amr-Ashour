@@ -10344,3 +10344,25 @@ footer > span , footer > div > a{
   color: #79bbff;
   font-size: 1.3em;
 }
+
+@media (min-width: 100px) {
+  .width {
+    float: right;
+  }
+}
+
+@media (min-width: 576px) {
+  .width {
+    float: right;
+  }
+}
+@media (min-width: 768px) {
+  .width {
+    float: right;
+  }
+}
+@media (min-width: 992px) {
+  .width {
+    float: right;
+  }
+}
