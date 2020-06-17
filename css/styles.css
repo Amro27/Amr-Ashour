@@ -10276,7 +10276,7 @@ border-radius:7px 7px 7px 7px ;
 }
 
 .slider-item {
-  width: 90%;
+  width: 85%;
   height: 100%;
   display: inline-block;
   margin: 20px;
@@ -10289,7 +10289,7 @@ border-radius:7px 7px 7px 7px ;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 23em;
+  width: 20em;
   height: 25em;
 }
 
